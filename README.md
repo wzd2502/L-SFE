@@ -18,7 +18,7 @@ Requirements for the software and other tools to build, test and push
 
 ## Running the tests
 
-'''
- This is code
-'''
+```
+python main.py --n_vars 10 --m_samples 1000 --data_type discrete --graph_type randomgraph --noise_type exp --train_method HC  --seed 627 --llm_api "your LLM API" --llm_url "Your LLM URL"
+```
 
