@@ -1,0 +1,867 @@
+Positive_tests,Excess_mortality,Tests_across_all_4_Pillars,Season,Leisure_activity,Work_and_school_activity,Deaths_with_COVID_on_certificate,Reinfections,Patients_in_MVBs,Majority_COVID_19_variant,Lockdown,Hospital_admissions,Face_masks,Second_dose_uptake,Transportation_activity,Patients_in_hospital,New_infections
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Very Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Very Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,High,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Low,Very Low,Spring,Low,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,Low,No,Very High,Very High,High,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Very Low
+Low,Very Low,Very Low,Spring,Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Very Low,Spring,Very High,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Low,High,Low
+Very Low,Very Low,Very Low,Spring,High,High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Very Low
+Low,Very Low,Very Low,Spring,Very High,High,Low,Very Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,High,High,Very Low
+Low,Very Low,Very Low,Spring,High,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Very Low,Spring,High,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Very Low,Spring,High,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,High,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Very Low,Spring,High,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Very Low,Spring,Very Low,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,High,High,Low
+Low,Very Low,Low,Spring,Low,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Very Low,Spring,Very Low,Very High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,Low
+High,Very Low,Low,Spring,Very Low,High,Low,High,Very Low,Omicron BA.2,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Very Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Low,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+Low,Very Low,Low,Spring,High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,Low
+High,Very Low,Low,Spring,High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Very Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,Low,Spring,Very Low,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+Low,Very Low,Low,Spring,Very Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,Low
+High,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,High
+High,Very Low,Low,Spring,Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,High
+High,Very Low,Low,Spring,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,High
+High,Very Low,Low,Spring,Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,High
+High,Very Low,Low,Spring,Low,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,High
+Low,Very Low,Low,Spring,Low,Very High,Very Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Spring,Very Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Spring,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,Low,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Spring,Very Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,Low,Low
+Low,Very Low,Low,Winter,High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Very High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Very Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Very Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,Low,Low
+Low,Very Low,Low,Winter,Very Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,Low,Low,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Low,Low,Low
+Low,Very Low,High,Winter,Very High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,High,Winter,High,High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,Low,Low
+Low,Very Low,High,Winter,Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,Low,Low
+Low,Very Low,High,Winter,Very High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,Low,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,Low,Winter,High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,High,Winter,High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,Low,Low
+Low,Very Low,High,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,High,Low
+Low,Very Low,High,Winter,High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,High,Low
+High,Very Low,High,Winter,High,High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,High,Winter,High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,High,High
+Low,Very Low,High,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,High,Low
+Low,Very Low,Low,Winter,Low,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,High,Low
+Low,Very Low,High,Winter,Low,High,Low,Low,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,High,High,Low
+High,Very Low,High,Winter,High,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,High,High
+High,Very Low,High,Winter,High,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,High,High
+High,Very Low,High,Winter,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,High,High
+High,Very Low,High,Winter,Very High,Very High,Low,High,Very Low,Omicron,No_or_limited_measures,Low,No,Very High,Very High,High,High
+High,Very Low,High,Winter,High,Very High,Low,Low,Very Low,Omicron,No_or_limited_measures,High,No,Very High,Very High,High,High
+High,Very Low,High,Winter,High,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Very Low,Omicron,No_or_limited_measures,High,No,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Very Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Very Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Very Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,High,Winter,High,Very High,Low,High,Very Low,Omicron,Social_distancing,High,Yes,Very High,Very High,High,High
+High,Very Low,High,Winter,Low,Very High,Low,Low,Very Low,Omicron,Social_distancing,Low,Yes,Very High,Very High,High,High
+High,Very Low,High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,High,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,High,Very High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,Very High,High,High
+High,Very Low,High,Winter,Low,Very High,Low,Low,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Very Low,Low,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,High,Very High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,Very High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+High,Very Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,High
+Very High,Very Low,Very High,Winter,Very Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,Very High
+Very High,Very Low,Very High,Winter,Very Low,High,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,Very High
+Very High,Very Low,Very High,Winter,Very Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,High,Very High
+Very High,Very Low,Very High,Winter,Very High,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,High,Very High
+Very High,Very Low,Very High,Winter,Low,High,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,High,High,Very High
+High,Very Low,High,Winter,Very Low,Low,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,High,High
+Very High,Very Low,Very High,Winter,Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,High,Very High
+Very High,Very Low,Very High,Winter,Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,High,Very High
+Very High,Very Low,Very High,Winter,Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,Low,Very High
+Very High,Very Low,Very High,Winter,Very Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,Low,Very High
+Very High,Very Low,Very High,Winter,Very Low,Low,Low,Very High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,Low,Very High
+High,Low,Very High,Winter,Very Low,High,Low,High,Low,Omicron,Social_distancing,High,Yes,Very High,Low,Low,High
+High,Low,High,Winter,Very Low,Low,Low,Low,Low,Omicron,Social_distancing,Low,Yes,Very High,Low,Low,High
+High,Low,Very High,Winter,Low,Low,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,Low,Low,High
+Very High,Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,Low,Low,Very High
+Very High,Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,Low,Low,Very High
+Very High,Low,Very High,Winter,High,High,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,High,Low,Very High
+High,Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,High,Low,High
+High,Low,Very High,Winter,Low,Very High,Low,Low,Low,Omicron,Social_distancing,Low,Yes,Very High,Very High,Low,High
+High,Low,Very High,Winter,Low,Very High,Low,Low,Low,Omicron,Social_distancing,Low,Yes,Very High,Very High,Low,High
+High,Low,Very High,Winter,Low,High,Low,Low,Low,Omicron,Social_distancing,Low,Yes,Very High,High,Low,High
+High,Low,Very High,Winter,Low,High,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,High,Low,High
+High,Low,Very High,Winter,Low,Very High,Low,High,Low,Omicron,Social_distancing,Low,Yes,Very High,High,Low,High
+High,Low,Very High,Winter,Low,Very High,Low,Low,Low,Delta,Social_distancing,Low,Yes,Very High,High,Low,High
+High,Low,Very High,Winter,High,Very High,Low,Low,Low,Delta,Social_distancing,Low,Yes,Very High,High,Low,High
+Low,Low,High,Winter,High,Very High,Low,Very Low,Low,Delta,Social_distancing,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,Social_distancing,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,Social_distancing,Low,Yes,Very High,Very High,Low,Low
+Low,Low,Very High,Winter,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,Very High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Winter,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Yes,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Low,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Very High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Autumn,High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Summer,High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Summer,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,High,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,High,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Summer,High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,Very High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,Very High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,Very High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Low
+Low,Low,Low,Summer,Very High,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,High,Very High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Low
+Low,Low,Low,Summer,Low,Very High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Low
+Low,Low,Low,Summer,High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Very Low,Low,Low,Summer,Very High,Very High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Very Low
+Very Low,Low,Low,Summer,High,Very High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Very Low
+Low,Low,Low,Summer,High,High,Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,High,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,High,Summer,Low,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,Low,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Low,Low
+Low,Low,Low,Summer,High,Very High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,Very High,Low,Low
+Low,Low,High,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Very Low,Low
+Low,Low,High,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Very Low,Low
+Low,Low,High,Summer,Very High,High,Very Low,Very Low,Low,Delta,No_or_limited_measures,Low,Optional,High,High,Very Low,Low
+Low,Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,No_or_limited_measures,Low,Optional,High,High,Very Low,Low
+Low,Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,No_or_limited_measures,Low,Optional,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,Very High,Very Low,Low
+Low,Very Low,Low,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,Very High,Very Low,Low
+Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,High,Very Low,High
+Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Low,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,Very High,Very Low,Low
+Low,Very Low,Low,Summer,High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Low,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,Very High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,Low,Summer,High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Low,Very Low,High,Summer,Low,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Low
+Very Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Low,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Low,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,Very High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Low,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,High,High,Very Low,Very Low
+Very Low,Very Low,High,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Summer,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,Very High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,Very High,High,Very Low,Very Low,Very Low,Delta,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,Very High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Very High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,Low,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Very High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,Very High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,High,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,Low,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,High,Low,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,High,High,Very Low,Very Low,Very Low,Alpha,Social_distancing,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Very Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Very Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Very Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Weak_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,High,Very Low,Very Low,Very Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Low,High,Very Low,Very Low,Very Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Low,Spring,Very Low,Low,Very Low,Very Low,Very Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,Low,Very Low,Very Low,Very Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,Low,Very Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Very Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Very Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Low,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Very Low,Very Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Very High,Spring,Low,Low,Low,Very Low,Low,Alpha,Moderate_lockdown,Very Low,Yes,Very Low,Low,Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Low,Low,Very Low,Low,Alpha,Severe_lockdown,Very Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,Low,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,High,Spring,Very Low,Low,Low,Very Low,Low,Alpha,Severe_lockdown,Very Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,High,Spring,Very Low,Very Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,High,Spring,Very Low,Very Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,Low,Spring,Very Low,Very Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Very Low,Low,Spring,Low,Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Low,Low,Winter,Low,Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,Low,Very Low
+Very Low,Low,Very Low,Winter,Low,Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Low,High,Very Low
+Very Low,Low,Low,Winter,Low,Low,Low,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Low,Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Very Low,Winter,Low,Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Very High,Alpha,Severe_lockdown,Low,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,Low,Low,Winter,Very Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Very Low,High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Low
+Very Low,High,Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Very Low,High,Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Very Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Very Low,High,Very Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Very Low
+Low,High,Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Very Low,Winter,Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,High,Low,Winter,Very Low,Very Low,Very High,Very Low,Very High,Alpha,Severe_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+High,High,Low,Winter,Very Low,Very Low,Very High,Very Low,High,Alpha,Moderate_lockdown,Very High,Yes,Very Low,Very Low,Very High,High
+High,High,Low,Winter,Very Low,Very Low,Very High,Very Low,High,Alpha,Moderate_lockdown,Very High,Yes,Very Low,Very Low,Very High,High
+Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very High,Very Low,Very High,Low
+Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very High,Very Low,Very High,High
+Low,Low,Very Low,Winter,Very Low,Very Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+Low,Low,Low,Winter,Very Low,Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very Low,Very Low,Very High,Low
+High,Low,Very Low,Winter,Low,Very Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very High,Very Low,Very High,High
+High,Low,Very Low,Winter,Low,Very Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very High,Very Low,Very High,High
+Low,Low,Very Low,Winter,Low,Very Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very High,Very Low,High,Low
+Low,High,Very Low,Winter,Low,Low,High,Very Low,High,Initial,Moderate_lockdown,Very High,Yes,Very High,Very Low,High,Low
+Low,High,Very Low,Winter,Very Low,Very Low,High,Very Low,High,Initial,Moderate_lockdown,High,Yes,Very High,Very Low,High,Low
+Very Low,High,Very Low,Winter,Very Low,Very Low,High,Very Low,High,Initial,Moderate_lockdown,High,Yes,Very High,Very Low,High,Very Low
+Low,High,Low,Winter,Low,Low,High,Very Low,High,Initial,Moderate_lockdown,High,Yes,Very High,Very Low,High,Low
+Low,High,Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Very Low,High,Low
+Low,High,Low,Winter,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Very Low,High,Low
+Low,High,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Very Low,High,Low
+Low,Low,Very Low,Winter,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Very Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,High,Low
+Low,Low,Very Low,Winter,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Very Low,Low,Very Low,Winter,Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,High,Very Low
+Low,Low,Very Low,Winter,Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Very Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Very Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Very Low,Low,Very Low,Winter,Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,High,Very Low
+Very Low,Low,Very Low,Winter,Low,High,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,High,Very Low
+Very Low,Low,Very Low,Winter,Low,High,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Winter,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Winter,Very Low,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Winter,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,High,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Low,High,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Very Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Very Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Very Low,High,Very Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Very Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Very Low,High,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Very Low,High,Very Low
+Low,Low,Very Low,Autumn,Very Low,Low,High,Very Low,Low,Initial,Severe_lockdown,Low,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Low,Low,High,Very Low,Low,Initial,Severe_lockdown,High,Yes,Very High,Low,High,Low
+Low,Low,Very Low,Autumn,Very High,High,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,High,Low
+Low,Low,Very Low,Autumn,High,High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,High,Low
+Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,High,Low
+Very Low,Low,Very Low,Autumn,Low,Very High,High,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,High,Low,Very Low
+Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Very Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Low,Initial,Moderate_lockdown,High,Yes,Very High,Low,Low,Low
+Very Low,Low,Very Low,Autumn,Low,Very High,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Low,Very Low
+Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Very Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Low
+Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Low
+Very Low,Low,Very Low,Autumn,High,High,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,High,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Low,Very Low
+Very Low,Low,Very Low,Autumn,Very Low,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Low,Very Low,Autumn,Low,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,Very High,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,Very High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,Very High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Very High,Very High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,Low,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Autumn,High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Low,Very Low,Summer,Very High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Low,Very Low,Summer,Low,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,High,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Social_distancing,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,High,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,High,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Very Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Low,Very Low,Very Low,Initial,Weak_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Summer,Very Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Very Low,Very Low,Summer,High,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Very Low,Very Low,Summer,Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Low,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Very Low,Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Very Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Very Low,Very Low,Low,Very Low,Very Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Summer,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Low,Low,Very Low,Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Very Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,Low,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,Yes,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Moderate_lockdown,Low,No,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Low,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,Very High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,Very High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,Very High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,High,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,Low,Very Low
+Very Low,High,Very Low,Spring,Very Low,Very Low,High,Very Low,High,Initial,Severe_lockdown,Very High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Severe_lockdown,High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Severe_lockdown,High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Severe_lockdown,High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,High,Very Low,Low,Initial,Severe_lockdown,High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,Low,Very Low,Very Low,Initial,No_or_limited_measures,High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,Low,Very Low,Very Low,Initial,No_or_limited_measures,High,No,Very High,Very Low,Low,Very Low
+Very Low,Low,Very Low,Spring,Very Low,Very Low,Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Low,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Very Low,Low,Very Low,Very Low,Initial,No_or_limited_measures,Very Low,No,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Low,Low,Very Low,Very Low,Initial,No_or_limited_measures,Very Low,No,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,Low,Low,Very Low,Very Low,Initial,No_or_limited_measures,Very Low,No,Very High,Low,Very Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Low,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very Low,High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Low,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Spring,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,Low,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,Very High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
+Very Low,Very Low,Very Low,Winter,High,Very High,Very Low,Very Low,Very Low,Initial,No_or_limited_measures,Low,No,Very High,Very High,Low,Very Low
