@@ -15,7 +15,7 @@ Requirements for the software and other tools to build, test and push
 - pgmpy==0.1.26
 - tqdm==4.66.5
 
-This project use the [pytetrad](https://github.com/cmu-phil/py-tetrad) for data generation, and HC in [pgmpy](https://pgmpy.org/), BOSS and GES in [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) for training the LLM genreated score functions. We really thanks to their contribution.
+This project use the [pytetrad]([https://github.com/cmu-phil/py-tetrad](https://www.cmu.edu/dietrich/philosophy/tetrad/)) for data generation, and HC in [pgmpy](https://pgmpy.org/), BOSS and GES in [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) for training the LLM genreated score functions. We really thanks to their contribution.
 
 
 ## Running the tests
