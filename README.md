@@ -15,10 +15,12 @@ Requirements for the software and other tools to build, test and push
 - pgmpy==0.1.26
 - tqdm==4.66.5
 
+This project use the [pytetrad](https://github.com/cmu-phil/py-tetrad) for data generation, and HC in [pgmpy](https://pgmpy.org/), BOSS and GES in [causal-learn](https://causal-learn.readthedocs.io/en/latest/index.html) for train the LLM genreated score functions. We really thanks to their contribution.
+
 
 ## Running the tests
 
 ```
-python main.py --n_vars 10 --m_samples 1000 --data_type discrete --graph_type randomgraph --noise_type exp --train_method HC  --seed 627 --llm_api "your LLM API" --llm_url "Your LLM URL"
+python main.py --n_vars 10 --m_samples 1000 --data_type discrete --graph_type randomgraph --noise_type exp --train_method HC  --seed 627 --llm_type "your LLM type" --llm_api "your LLM API" --llm_url "Your LLM URL"
 ```
-
+You can quickly train your own score functions use the above script.  And only the "llm_type", "llm_api" and "llm_url" is necessary. 
