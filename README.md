@@ -23,4 +23,4 @@ This project use the [pytetrad](https://github.com/cmu-phil/py-tetrad) for data 
 ```
 python main.py --n_vars 10 --m_samples 1000 --data_type discrete --graph_type randomgraph --noise_type exp --train_method HC  --seed 627 --llm_type "your LLM type" --llm_api "your LLM API" --llm_url "Your LLM URL"
 ```
-You can quickly train your own score functions use the above script.  And only the "llm_type", "llm_api" and "llm_url" is necessary. 
+You can quickly train your own score functions use the above script.  And only the "llm_type", "llm_api" and "llm_url" are necessary. 
